@@ -1,0 +1,29 @@
+Name,Tipo,gr/Cant/presentacion,valor presentacion,$/100gr,Proteina/100gr-ml,Prot/1$,kCal/100gr-ml,kCal/1$,Dificultad digestiva
+Aceite de coco,Aceite,1000,$12.00,1.20,0,0.00,862,718.33,1
+Aceite de girasol,Aceite,900,$2.00,0.22,0,0.00,888,3996.00,20
+Aceite de oliva,Aceite,1000,$9.50,0.95,0,0.00,824,867.37,0
+Aguacate,Aceite,1000,$2.24,0.22,2,8.93,160,714.29,50
+semillas de Ajonjoli,Aceite,1000,$8.00,0.80,24.1,30.13,581,726.25,0
+semillas de Chia,Aceite,1000,$7.62,0.76,20,26.25,461,604.99,0
+semillas de Lino,Aceite,1000,$7.62,0.76,19,24.93,534,700.79,0
+Banana,Carbohidrato,1000,$0.60,0.06,1.3,21.67,105,1750.00,70
+lechosa,Carbohidrato,1000,$1.52,0.15,0.5,3.29,43,282.89,100
+Piña,Carbohidrato,1000,$0.60,0.06,0.5,8.33,50,833.33,50
+Huevos,Proteina,1600,$3.60,0.23,12.56,55.82,155,688.89,20
+Leche descremada,Proteina,920,$10.00,1.09,36,33.12,460,423.20,20
+Muslo de pollo,Proteina,1000,$2.88,0.29,24,83.33,177,614.58,60
+Pechuga de pollo,Proteina,1000,$3.12,0.31,24,76.92,165,528.85,35
+Pollo,Proteina,1000,$2.30,0.23,12,52.17,80,347.83,30
+Arroz integral,Carbohidrato,800,$1.30,0.16,4.12,25.35,190,1169.23,10
+Avena,Carbohidrato,900,$1.00,0.11,13,117.00,390,3510.00,10
+Azúcar,Carbohidrato,900,$1.00,0.11,0,0.00,387,3483.00,10
+Azúcar Panela,Carbohidrato,1000,$2.40,0.24,0.1,0.42,380,1583.33,20
+Cacao,Carbohidrato,50,$0.40,0.80,19,23.75,430,537.50,0
+Chicha los andes,Carbohidrato,,,#DIV/0!,3.5,#DIV/0!,110,#DIV/0!,55
+Chicha SanSimon ,Carbohidrato,1000,$2.00,0.20,3.5,17.50,205,1025.00,70
+granola,Carbohidrato,1000,$7.00,0.70,16,22.86,390,557.14,50
+Harina de maíz ,Carbohidrato,1000,$0.90,0.09,8,88.89,360,4000.00,30
+Lactovisoy SanSimon,Carbohidrato,900,$4.50,0.50,17,34.00,390,780.00,80
+Pan Integral,Carbohidrato,600,$2.00,0.33,9.13,27.39,259,777.00,30
+Platano,Carbohidrato,1000,$1.08,0.11,1.3,12.04,122,1129.63,30
+Zanahoria,Carbohidrato,1000,$1.08,0.11,0.9,8.33,41,379.63,0
