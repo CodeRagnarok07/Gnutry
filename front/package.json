@@ -4,8 +4,10 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "next build",
+    "build": "rm -rf ../templates && next build && next export -o ../templates && mv ../templates/_next/static ../templates",
     "start": "next start",
+    "deploy2": "rm -rf output ../static && next export -o output && mv output ../static ",
+    "py": "&& python ../bin/finalize_marketing_build.py -d static",
     "lint": "next lint"
   },
   "dependencies": {
