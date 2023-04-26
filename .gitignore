@@ -12,7 +12,7 @@ env8/
 0todo/
 
 #build
-templates/
+./templates/
 
 
 # If your build process includes running collectstatic, then you probably don't need or want to include staticfiles/

@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+
+    <style>
+        body,
+        html,
+        main,
+        side {
+            height: 100%;
+        }
+        h1{
+            font-size: 2rem;
+            font-weight: 800;
+        }
+    </style>
+</head>
+
+<body class="bg-slate-800 text-white">
+
+    <nav class="py-5 px-5 bg-gray-800  border-b-2 border-white">
+        gnutry
+    </nav>
+
+    <main class="container flex">
+
+        <aside class="px-5 pt-5 bg-slate-700 h-full">
+
+            <ul>
+                <li>Listado de alimentos</li>
+            </ul>
+
+        </aside>
+
+        <section class="w-4/5 mx-auto flex flex-col">
+            <div class="w-4/5 mx-auto">
+                buscar
+            </div>
+
+            <div class="mt-5">
+
+                {% block content %}
+                {% endblock content %}
+
+            </div>
+        </section>
+
+
+    </main>
+
+
+</body>
+
+</html>

@@ -1,0 +1,59 @@
+
+.table {
+    width: 100%;
+    text-align: left;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 22px;
+
+    background-color: rgba(99, 99, 99, 0.301);
+    padding: 1rem;
+    border-radius: 0.5rem;
+
+    thead {
+        font-weight: 700;
+        width: 100%;
+        th{
+            cursor: pointer;
+        }
+    }
+
+    th,
+    td {
+        // border-bottom: solid 0.2px white;
+        padding: 6px 12px;
+    }
+
+   
+
+    tbody {
+
+        tr {
+            &:nth-child(odd) {
+                background: rgba(104, 104, 104, 0.267);
+            }
+        }
+
+    }
+
+}
+
+
+// TAGS
+
+.tag{
+    display: flex;
+    padding: 0.125rem 0.5rem;
+    border-radius: 0.25rem;
+    font-size: 0.75rem;
+
+    &.tag-red{
+        background-color: rgb(134, 78, 78);
+    }
+    &.tag-green{
+        background-color: rgb(78, 134, 112);
+    }
+    &.tag-blue{
+        background-color: rgb(109, 78, 134);
+    }
+}
