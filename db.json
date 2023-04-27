@@ -1,0 +1,11 @@
+[
+    {
+        "model": "alimentos.food",
+        "fields": {
+          "name": "Aceite de coco",
+          "type": "Aceite",
+          "calorias": 0,
+          "proteina": 862
+        }
+      }
+]

@@ -1,0 +1,253 @@
+[
+  {
+    "model": "alimentos.food",
+    "fields": {
+      "name": "Aceite de coco",
+      "type": "Aceite",
+      "calorias": 0,
+      "proteina": 862
+    }
+  },
+  {
+    "model": "alimentos.food",
+    "fields": {
+      "name": "Aceite de girasol",
+      "type": "Aceite",
+      "calorias": 0,
+      "proteina": 888
+    }
+  },
+  {
+    "model": "alimentos.food",
+    "fields": {
+      "name": "Aceite de oliva",
+      "type": "Aceite",
+      "calorias": 0,
+      "proteina": 824
+    }
+  },
+  {
+    "model": "alimentos.food",
+    "fields": {
+      "name": "Aguacate",
+      "type": "Aceite",
+      "calorias": 2,
+      "proteina": 160
+    }
+  },
+  {
+    "model": "alimentos.food",
+    "fields": {
+      "name": "semillas de Ajonjoli",
+      "type": "Aceite",
+      "calorias": 24.1,
+      "proteina": 581
+    }
+  },
+  {
+    "model": "alimentos.food",
+    "fields": {
+      "name": "semillas de Chia",
+      "type": "Aceite",
+      "calorias": 20,
+      "proteina": 461
+    }
+  },
+  {
+    "model": "alimentos.food",
+    "fields": {
+      "name": "semillas de Lino",
+      "type": "Aceite",
+      "calorias": 19,
+      "proteina": 534
+    }
+  },
+  {
+    "model": "alimentos.food",
+    "fields": {
+      "name": "Banana",
+      "type": "Carbohidrato",
+      "calorias": 1.3,
+      "proteina": 105
+    }
+  },
+  {
+    "model": "alimentos.food",
+    "fields": {
+      "name": "lechosa",
+      "type": "Carbohidrato",
+      "calorias": 0.5,
+      "proteina": 43
+    }
+  },
+  {
+    "model": "alimentos.food",
+    "fields": {
+      "name": "Piña",
+      "type": "Carbohidrato",
+      "calorias": 0.5,
+      "proteina": 50
+    }
+  },
+  {
+    "model": "alimentos.food",
+    "fields": {
+      "name": "Huevos",
+      "type": "Proteina",
+      "calorias": 12.56,
+      "proteina": 155
+    }
+  },
+  {
+    "model": "alimentos.food",
+    "fields": {
+      "name": "Leche descremada",
+      "type": "Proteina",
+      "calorias": 36,
+      "proteina": 460
+    }
+  },
+  {
+    "model": "alimentos.food",
+    "fields": {
+      "name": "Muslo de pollo",
+      "type": "Proteina",
+      "calorias": 24,
+      "proteina": 177
+    }
+  },
+  {
+    "model": "alimentos.food",
+    "fields": {
+      "name": "Pechuga de pollo",
+      "type": "Proteina",
+      "calorias": 24,
+      "proteina": 165
+    }
+  },
+  {
+    "model": "alimentos.food",
+    "fields": {
+      "name": "Pollo",
+      "type": "Proteina",
+      "calorias": 12,
+      "proteina": 80
+    }
+  },
+  {
+    "model": "alimentos.food",
+    "fields": {
+      "name": "Arroz integral",
+      "type": "Carbohidrato",
+      "calorias": 4.12,
+      "proteina": 190
+    }
+  },
+  {
+    "model": "alimentos.food",
+    "fields": {
+      "name": "Avena",
+      "type": "Carbohidrato",
+      "calorias": 13,
+      "proteina": 390
+    }
+  },
+  {
+    "model": "alimentos.food",
+    "fields": {
+      "name": "Azúcar",
+      "type": "Carbohidrato",
+      "calorias": 0,
+      "proteina": 387
+    }
+  },
+  {
+    "model": "alimentos.food",
+    "fields": {
+      "name": "Azúcar Panela",
+      "type": "Carbohidrato",
+      "calorias": 0.1,
+      "proteina": 380
+    }
+  },
+  {
+    "model": "alimentos.food",
+    "fields": {
+      "name": "Cacao",
+      "type": "Carbohidrato",
+      "calorias": 19,
+      "proteina": 430
+    }
+  },
+  {
+    "model": "alimentos.food",
+    "fields": {
+      "name": "Chicha los andes",
+      "type": "Carbohidrato",
+      "calorias": 3.5,
+      "proteina": 110
+    }
+  },
+  {
+    "model": "alimentos.food",
+    "fields": {
+      "name": "Chicha SanSimon",
+      "type": "Carbohidrato",
+      "calorias": 3.5,
+      "proteina": 205
+    }
+  },
+  {
+    "model": "alimentos.food",
+    "fields": {
+      "name": "granola",
+      "type": "Carbohidrato",
+      "calorias": 16,
+      "proteina": 390
+    }
+  },
+  {
+    "model": "alimentos.food",
+    "fields": {
+      "name": "Harina de maíz",
+      "type": "Carbohidrato",
+      "calorias": 8,
+      "proteina": 360
+    }
+  },
+  {
+    "model": "alimentos.food",
+    "fields": {
+      "name": "Lactovisoy SanSimon",
+      "type": "Carbohidrato",
+      "calorias": 17,
+      "proteina": 390
+    }
+  },
+  {
+    "model": "alimentos.food",
+    "fields": {
+      "name": "Pan Integral",
+      "type": "Carbohidrato",
+      "calorias": 9.13,
+      "proteina": 259
+    }
+  },
+  {
+    "model": "alimentos.food",
+    "fields": {
+      "name": "Platano",
+      "type": "Carbohidrato",
+      "calorias": 1.3,
+      "proteina": 122
+    }
+  },
+  {
+    "model": "alimentos.food",
+    "fields": {
+      "name": "Zanahoria",
+      "type": "Carbohidrato",
+      "calorias": 0.9,
+      "proteina": 41
+    }
+  ]

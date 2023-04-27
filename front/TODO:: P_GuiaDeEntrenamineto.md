@@ -2,11 +2,24 @@ https://mui.com/store/previews/mira-pro-react-material-admin-dashboard/
 
 
 # Requirements:
-listado de alimentos,
-orden de listado de alimentos mediante los distintos parametros
-diseño de tablas
+- [x] listado de alimentos,
+- [x] orden de listado de alimentos mediante los distintos parametros
+- [x] diseño de tablas
+- [ ] tabla de comparacion de precios costo y aporte de macros
+- [ ] Resultado de alimentos sugeridos top
+- [ ] Campo extra de nivel de digestion y propiedades [anti inflamatorias]
+
+## recetario
+- [ ] creacion de recetas
+- [ ] macros que aporta
+- [ ] menu semanal
+- [ ] compras semanales
+- [ ] view de recetas 
 
 
+# fase 2 
+- [ ] registro personalizado
+- [ ] dashboard unico por usuario
 
 ## Guia de alimentacion
 - [ ] Calorias requerias
